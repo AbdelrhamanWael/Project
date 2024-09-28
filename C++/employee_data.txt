@@ -1,0 +1,10 @@
+Employee Name: Abdelrhaman
+Employee ID: 16165465
+Employee Password: 4654sa4d6sa
+Employee Salary: 7000
+=================================================
+Client that You added ::
+Client Name: 
+Client ID: 32761
+Client Balance: 7.70859e-317
+Client Password: 
